@@ -5,10 +5,11 @@
 
 ## 👩‍💻 Team members
 
+- **Satyam Bindroo** - sbindroo_b20@ce.vjti.ac.in
 - **Nishant Patil** - patilnishant0311@gmail.com
 - **Bhavik Bharambe** - bhavik.bharambe02@gmail.com
 - **Dhrumil Raigagla** - dhrumilraigagla@gmail.com
-- **Satyam Bindroo** - sbindroo_b20@ce.vjti.ac.in
+
 
 ## 👨‍🏫 Mentors
 
